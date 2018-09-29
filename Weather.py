@@ -1,31 +1,23 @@
-# Importing weather data
-
 import matplotlib.pyplot as plt
 import csv
+import numpy as np
 
-file = open('Data/Rainfall Data.csv',"r")
+file = open('Weather Data_CSV.csv',"r") # Importing weather data
+reader = csv.reader(file)
 
-reader = csv.reader(file)         # Alls to create list
-
-print(reader)
-
+result = []                # Extracting and combining year and month data
+rainfall = []
 for row in reader:
+    rainfall.append((row[4]))
+    result.append(row[2] + '-' + row[3])
+print(result, rainfall)
 
-    years = row[2]
-    months = row[3]
-    rainfall = row[4]
-    # print(list(int(years)))
-    year_month = []
-    for year in years:
-        for month in months:
-            year_month = years.append(months)
-            labelled = '-'.join([str(year),month])
-            year_month.append(labelled)
-    print(year_month)
+fig = plt.figure(figsize=(20,20))
+plt.plot(result,rainfall)  # Plotting graph on rainfall vs year_month
+plt.xlabel('Year_Month')
+plt.ylabel('rainfall')
 
-# plt.plot(year_month, rainfall)
-# plt.ylabel('month')
-# plt.show()
+plt.show()
 
-# file.close()
+file.close()
 
