@@ -2,6 +2,9 @@ import matplotlib.pyplot as plt
 import csv
 import numpy as np
 
+def plot_weather_precipitation():
+    pass
+
 file = open('Weather Data_CSV.csv',"r") # Importing weather data
 reader = csv.reader(file)
 

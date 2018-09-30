@@ -6,6 +6,8 @@ months = ["Jan", "Feb"]
 
 rainfalls = [11, 22, 31, 12, 43, 26, 42, 12, 24, 23]
 
+def plot_weather_precipitation():
+    pass
 year_month = []                # Extracting and combining year and month data
 precipitation = []
 for year in years:
@@ -16,12 +18,12 @@ for rainfall in rainfalls:
     precipitation.append(rainfall)
 print (year_month, precipitation)
 
-# def plot_weather_precipitation:
 plt.plot(year_month, precipitation)
 plt.xlabel('Year_Month')
 plt.ylabel('Precipitation')
 plt.show()
-# print(plot_weather_preciptiation)
+
+
 
 # Method 1 of opening CSV file:
 # file = open('Weather Data_CSV.csv',"r")

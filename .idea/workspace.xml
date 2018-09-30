@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="605bc218-8ae5-4ea0-8844-cf9982998f23" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Weather Data_CSV.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Weather.py" beforeDir="false" afterPath="$PROJECT_DIR$/Weather.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/scratch_weather.py" beforeDir="false" afterPath="$PROJECT_DIR$/scratch_weather.py" afterDir="false" />
     </list>
@@ -43,14 +41,14 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="csv" value="8" />
-          <entry key="py" value="3934" />
-          <entry key="txt" value="246" />
+          <entry key="py" value="3978" />
+          <entry key="txt" value="545" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="254" />
-          <entry key="Python" value="2716" />
+          <entry key="PLAIN_TEXT" value="553" />
+          <entry key="Python" value="2760" />
           <entry key="Scratch" value="1218" />
         </counts>
       </usages-collector>
@@ -58,13 +56,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Weather.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="251">
-              <caret line="18" selection-start-line="18" selection-end-line="18" />
+            <state relative-caret-position="68">
+              <caret line="4" column="16" lean-forward="true" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
               <folding>
                 <element signature="e#0#31#0" expanded="true" />
+                <marker date="1538265482069" expanded="true" signature="96:107" ph="..." />
               </folding>
             </state>
           </provider>
@@ -79,11 +78,14 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/scratch_weather.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="267">
-              <caret line="23" column="19" lean-forward="true" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
+            <state relative-caret-position="63">
+              <caret line="8" column="26" selection-start-line="8" selection-end-line="9" />
+              <folding>
+                <marker date="1538265463549" expanded="true" signature="181:183" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -117,8 +119,8 @@
         <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_6.py" />
         <option value="$PROJECT_DIR$/Data/Rainfall Data.csv" />
         <option value="$PROJECT_DIR$/Weather Data_CSV.csv" />
-        <option value="$PROJECT_DIR$/Weather.py" />
         <option value="$PROJECT_DIR$/scratch_weather.py" />
+        <option value="$PROJECT_DIR$/Weather.py" />
       </list>
     </option>
   </component>
@@ -307,7 +309,14 @@
       <option name="project" value="LOCAL" />
       <updated>1538196100833</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Updated Weather.py file:&#10;1. updated csv. file name&#10;2. updated rainfall and time data extraction and combination&#10;3. plotting rainfall vs time &#10;Comments: Weather.py graph is not well presented. Need to update. &#10;&#10;Updated scratch_weather.py">
+      <created>1538265238281</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1538265238281</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -361,7 +370,8 @@
     <MESSAGE value="Read file from python" />
     <MESSAGE value="Creating year_month for x-axis;&#10;Not able to combine year with month, as data is showing as strings rather than integer" />
     <MESSAGE value="Adding scratch file for weather" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding scratch file for weather" />
+    <MESSAGE value="Updated Weather.py file:&#10;1. updated csv. file name&#10;2. updated rainfall and time data extraction and combination&#10;3. plotting rainfall vs time &#10;Comments: Weather.py graph is not well presented. Need to update. &#10;&#10;Updated scratch_weather.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated Weather.py file:&#10;1. updated csv. file name&#10;2. updated rainfall and time data extraction and combination&#10;3. plotting rainfall vs time &#10;Comments: Weather.py graph is not well presented. Need to update. &#10;&#10;Updated scratch_weather.py" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$USER_HOME$/Anaconda3/envs/COMP7230_Assignment1/Lib/site-packages/matplotlib/pyplot.py">
@@ -415,16 +425,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Weather.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="251">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Weather Data_CSV.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
@@ -434,8 +434,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/scratch_weather.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="267">
-          <caret line="23" column="19" lean-forward="true" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
+        <state relative-caret-position="63">
+          <caret line="8" column="26" selection-start-line="8" selection-end-line="9" />
+          <folding>
+            <marker date="1538265463549" expanded="true" signature="181:183" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Weather.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="16" lean-forward="true" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+            <marker date="1538265482069" expanded="true" signature="96:107" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
