@@ -26,7 +26,7 @@ fig = plt.figure(figsize=(20,20))
 ax = fig.add_subplot(111)
 
 # ''' Plot barchart '''
-y_pos = np.arange(len(result))
+y_pos = np.arange(len(result))                      # x-axis - time
 ax.bar(y_pos, rainfall, align='center', alpha=0.5)
 plt.xticks(y_pos, result)
 plt.ylabel('rainfall')
