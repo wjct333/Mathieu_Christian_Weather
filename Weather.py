@@ -22,20 +22,22 @@ print(rainfall)
 print(temperature)
 print(result)
 
-# ''' Plot barchart '''
 fig = plt.figure(figsize=(20,20))
+ax = fig.add_subplot(111)
+
+# ''' Plot barchart '''
 y_pos = np.arange(len(result))
-plt.bar(y_pos, rainfall, align='center', alpha=0.5)
+ax.bar(y_pos, rainfall, align='center', alpha=0.5)
 plt.xticks(y_pos, result)
 plt.ylabel('rainfall')
 plt.title('Weather Data')
+fig.autofmt_xdate()
 
 # ''' Plot linear relationship '''
-fig = plt.figure(figsize=(20,20))
-plt.plot(result,temperature)  # Plotting graph on rainfall vs year_month
+ax2 = ax.twinx()
+ax2.plot(result,temperature)  # Plotting graph on rainfall vs year_month
 plt.xlabel('Year_Month')
 plt.ylabel('Temperature')
-
 
 plt.show()
 
