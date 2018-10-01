@@ -14,7 +14,7 @@ next(reader)
 for row in reader:
     if row[4] == '':
         continue
-    rainfall.append((row[4]))
+    rainfall.append(float(row[4]))
     result.append(row[2] + '-' + row[3])
 rainfall = rainfall[1:-1]
 result = result[1:-1]
