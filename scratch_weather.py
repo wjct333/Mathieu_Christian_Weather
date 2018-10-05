@@ -39,4 +39,47 @@
 
 # a = ('1','2','3','4','5','6')
 
-print(float())
+import matplotlib.pyplot as plt
+import csv
+import numpy as np
+
+
+# def plot_weather_data():
+file = open('Weather Data_CSV.csv', "r")  # Importing weather data
+reader = csv.reader(file)
+
+time = []
+rainfall = []
+temperature = []
+next(reader)                    # ignore the title line
+for row in reader:
+    if row[4] == '':
+            continue            # continue program without crashing on empty string
+    rainfall.append(float(row[4]))
+    temperature.append(float(row[5]))
+    time.append(row[2] + '-' + row[3])    # combining year and month data
+print(rainfall)
+print(temperature)
+print(time)
+
+fig = plt.figure(figsize=(20, 20))
+ax = fig.add_subplot(111)
+
+# Plot barchart on rainfall vs time
+y_pos = np.arange(len(time))  # x-axis - time
+ax.bar(y_pos, rainfall, align='center', alpha=0.5)
+plt.xticks(y_pos, time)
+plt.ylabel('rainfall')
+plt.title('Weather Data')
+fig.autofmt_xdate()           # formatting x-axis labels to avoid overlapping
+
+# Plot line graph on temperature vs time
+ax2 = ax.twinx()
+ax2.plot(time, temperature)  # Plotting graph on temperature vs time
+plt.xlabel('Year_Month')
+plt.ylabel('Temperature')
+
+plt.show()
+
+
+file.close()

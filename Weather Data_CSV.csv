@@ -1,70 +1,69 @@
-﻿Product code,Region,Year,Month,Monthly Precipitation Total (millimetres),Mean maximum temperature (C),Monthly mean daily global solar exposure (MJ/m*m),Mean minimum temperature (C),,,,,,,
-IDCJAC0001,Barossa Valley,2013,1,10.6,31.5,29.1,13.9,,,,,,,
-IDCJAC0001,Barossa Valley,2013,2,15,31.7,23.8,15.5,,,,,,,
-IDCJAC0001,Barossa Valley,2013,3,17.8,28.7,17.8,15.6,,,,,,,
-IDCJAC0001,Barossa Valley,2013,4,56.6,24.1,13.7,11.3,,,,,,,
-IDCJAC0001,Barossa Valley,2013,5,82.8,20.1,9.2,10.5,,,,,,,
-IDCJAC0001,Barossa Valley,2013,6,103,15.8,7,6.5,,,,,,,
-IDCJAC0001,Barossa Valley,2013,7,139,15.5,7.5,6.6,,,,,,,
-IDCJAC0001,Barossa Valley,2013,8,129.6,16.6,10.4,6.9,,,,,,,
-IDCJAC0001,Barossa Valley,2013,9,62,21.6,14.3,9.3,,,,,,,
-IDCJAC0001,Barossa Valley,2013,10,38.2,23,20,7.1,,,,,,,
-IDCJAC0001,Barossa Valley,2013,11,5,26.2,23.2,9.9,,,,,,,
-IDCJAC0001,Barossa Valley,2013,12,24,29.4,24.4,13.5,,,,,,,
-IDCJAC0001,Barossa Valley,2014,1,29.2,33.4,27.5,16,,,,,,,
-IDCJAC0001,Barossa Valley,2014,2,117.5,30.2,22.2,16.2,,,,,,,
-IDCJAC0001,Barossa Valley,2014,3,17.4,27.8,18.4,13.2,,,,,,,
-IDCJAC0001,Barossa Valley,2014,4,69.2,22.3,12.5,11,,,,,,,
-IDCJAC0001,Barossa Valley,2014,5,75.2,20.2,8.7,9.7,,,,,,,
-IDCJAC0001,Barossa Valley,2014,6,135.6,15.5,6.7,6.7,,,,,,,
-IDCJAC0001,Barossa Valley,2014,7,144.4,14.6,7,6.3,,,,,,,
-IDCJAC0001,Barossa Valley,2014,8,18,16.7,12.9,3.3,,,,,,,
-IDCJAC0001,Barossa Valley,2014,9,42.2,20.3,15.5,6.8,,,,,,,
-IDCJAC0001,Barossa Valley,2014,10,7.4,27,21.5,8.5,,,,,,,
-IDCJAC0001,Barossa Valley,2014,11,33.6,27.6,22.3,12.1,,,,,,,
-IDCJAC0001,Barossa Valley,2014,12,13.6,27.8,26.5,12.5,,,,,,,
-IDCJAC0001,Barossa Valley,2015,1,57.4,28.7,24,15.9,,,,,,,
-IDCJAC0001,Barossa Valley,2015,2,1.8,33.4,24.1,16.2,,,,,,,
-IDCJAC0001,Barossa Valley,2015,3,11.8,26.1,18.8,12.1,,,,,,,
-IDCJAC0001,Barossa Valley,2015,4,61.4,20.5,11.7,9,,,,,,,
-IDCJAC0001,Barossa Valley,2015,5,74,17.9,8.9,8.3,,,,,,,
-IDCJAC0001,Barossa Valley,2015,6,25,15.6,7.7,5.9,,,,,,,
-IDCJAC0001,Barossa Valley,2015,7,75.8,14.4,8.2,4.2,,,,,,,
-IDCJAC0001,Barossa Valley,2015,8,84.6,15.3,10.2,5.5,,,,,,,
-IDCJAC0001,Barossa Valley,2015,9,54,18.9,16.1,5.2,,,,,,,
-IDCJAC0001,Barossa Valley,2015,10,12.6,28.1,22.7,11.4,,,,,,,
-IDCJAC0001,Barossa Valley,2015,11,19.4,27.8,25.2,11.8,,,,,,,
-IDCJAC0001,Barossa Valley,2015,12,11.6,32.8,27,15.8,,,,,,,
-IDCJAC0001,Barossa Valley,2016,1,26.6,31.8,25.6,16.3,,,,,,,
-IDCJAC0001,Barossa Valley,2016,2,9,29.6,24.3,13.1,,,,,,,
-IDCJAC0001,Barossa Valley,2016,3,44.2,28.8,16.8,15.2,,,,,,,
-IDCJAC0001,Barossa Valley,2016,4,12.2,25,14.7,10.3,,,,,,,
-IDCJAC0001,Barossa Valley,2016,5,143,19.8,8.8,10,,,,,,,
-IDCJAC0001,Barossa Valley,2016,6,104.7,15.3,7.8,7,,,,,,,
-IDCJAC0001,Barossa Valley,2016,7,109.2,14.7,8.1,6,,,,,,,
-IDCJAC0001,Barossa Valley,2016,8,87.6,17.1,11.9,5.2,,,,,,,
-IDCJAC0001,Barossa Valley,2016,9,230.1,16.6,12.4,6.3,,,,,,,
-IDCJAC0001,Barossa Valley,2016,10,67.5,20.4,20,7.4,,,,,,,
-IDCJAC0001,Barossa Valley,2016,11,34.4,25.3,24.2,8.6,,,,,,,
-IDCJAC0001,Barossa Valley,2016,12,97.8,29,23.5,12.7,,,,,,,
-IDCJAC0001,Barossa Valley,2017,1,60.8,31.3,25.8,16,,,,,,,
-IDCJAC0001,Barossa Valley,2017,2,37,29.3,22,14.6,,,,,,,
-IDCJAC0001,Barossa Valley,2017,3,8.6,30.4,17.4,14.1,,,,,,,
-IDCJAC0001,Barossa Valley,2017,4,84.8,23.5,11.9,10.9,,,,,,,
-IDCJAC0001,Barossa Valley,2017,5,,19.1,9.7,7.4,,,,,,,
-IDCJAC0001,Barossa Valley,2017,6,11,16.8,9.3,3,,,,,,,
-IDCJAC0001,Barossa Valley,2017,7,129.2,16.3,8.4,5.8,,,,,,,
-IDCJAC0001,Barossa Valley,2017,8,,15.3,10.2,5,,,,,,,
-IDCJAC0001,Barossa Valley,2017,9,58.1,18.9,16.3,7.2,,,,,,,
-IDCJAC0001,Barossa Valley,2017,10,26.8,24.5,20.4,7.9,,,,,,,
-IDCJAC0001,Barossa Valley,2017,11,44.8,28.6,21.5,13.9,,,,,,,
-IDCJAC0001,Barossa Valley,2017,12,34.2,28.7,23.8,13.1,,,,,,,
-IDCJAC0001,Barossa Valley,2018,1,14.2,33,24.3,16.3,,,,,,,
-IDCJAC0001,Barossa Valley,2018,2,7.2,31.9,21.9,16.4,,,,,,,
-IDCJAC0001,Barossa Valley,2018,3,5.8,28.2,18.2,12.4,,,,,,,
-IDCJAC0001,Barossa Valley,2018,4,26,27.4,14.2,11.9,,,,,,,
-IDCJAC0001,Barossa Valley,2018,5,59,18.3,9.1,7.6,,,,,,,
-IDCJAC0001,Barossa Valley,2018,6,52.8,15.7,8.4,4.4,,,,,,,
-IDCJAC0001,Barossa Valley,2018,7,45.6,16.4,9,5.3,,,,,,,
-IDCJAC0001,Barossa Valley,2018,8,100,16.6,11.3,5.8,,,,,,,
-,,,,,,,,,,,,,,
+﻿Product code,Region,Year,Month,Monthly Precipitation Total (millimetres),Mean maximum temperature (C),Monthly mean daily global solar exposure (MJ/m*m),Mean minimum temperature (C)
+IDCJAC0001,Melbourne,2013,1,10.6,31.5,29.1,13.9
+IDCJAC0001,Melbourne,2013,2,15,31.7,23.8,15.5
+IDCJAC0001,Melbourne,2013,3,17.8,28.7,17.8,15.6
+IDCJAC0001,Melbourne,2013,4,56.6,24.1,13.7,11.3
+IDCJAC0001,Melbourne,2013,5,82.8,20.1,9.2,10.5
+IDCJAC0001,Melbourne,2013,6,103,15.8,7,6.5
+IDCJAC0001,Melbourne,2013,7,139,15.5,7.5,6.6
+IDCJAC0001,Melbourne,2013,8,129.6,16.6,10.4,6.9
+IDCJAC0001,Melbourne,2013,9,62,21.6,14.3,9.3
+IDCJAC0001,Melbourne,2013,10,38.2,23,20,7.1
+IDCJAC0001,Melbourne,2013,11,5,26.2,23.2,9.9
+IDCJAC0001,Melbourne,2013,12,24,29.4,24.4,13.5
+IDCJAC0001,Melbourne,2014,1,29.2,33.4,27.5,16
+IDCJAC0001,Melbourne,2014,2,117.5,30.2,22.2,16.2
+IDCJAC0001,Melbourne,2014,3,17.4,27.8,18.4,13.2
+IDCJAC0001,Melbourne,2014,4,69.2,22.3,12.5,11
+IDCJAC0001,Melbourne,2014,5,75.2,20.2,8.7,9.7
+IDCJAC0001,Melbourne,2014,6,135.6,15.5,6.7,6.7
+IDCJAC0001,Melbourne,2014,7,144.4,14.6,7,6.3
+IDCJAC0001,Melbourne,2014,8,18,16.7,12.9,3.3
+IDCJAC0001,Melbourne,2014,9,42.2,20.3,15.5,6.8
+IDCJAC0001,Melbourne,2014,10,7.4,27,21.5,8.5
+IDCJAC0001,Melbourne,2014,11,33.6,27.6,22.3,12.1
+IDCJAC0001,Melbourne,2014,12,13.6,27.8,26.5,12.5
+IDCJAC0001,Melbourne,2015,1,57.4,28.7,24,15.9
+IDCJAC0001,Melbourne,2015,2,1.8,33.4,24.1,16.2
+IDCJAC0001,Melbourne,2015,3,11.8,26.1,18.8,12.1
+IDCJAC0001,Melbourne,2015,4,61.4,20.5,11.7,9
+IDCJAC0001,Melbourne,2015,5,74,17.9,8.9,8.3
+IDCJAC0001,Melbourne,2015,6,25,15.6,7.7,5.9
+IDCJAC0001,Melbourne,2015,7,75.8,14.4,8.2,4.2
+IDCJAC0001,Melbourne,2015,8,84.6,15.3,10.2,5.5
+IDCJAC0001,Melbourne,2015,9,54,18.9,16.1,5.2
+IDCJAC0001,Melbourne,2015,10,12.6,28.1,22.7,11.4
+IDCJAC0001,Melbourne,2015,11,19.4,27.8,25.2,11.8
+IDCJAC0001,Melbourne,2015,12,11.6,32.8,27,15.8
+IDCJAC0001,Melbourne,2016,1,26.6,31.8,25.6,16.3
+IDCJAC0001,Melbourne,2016,2,9,29.6,24.3,13.1
+IDCJAC0001,Melbourne,2016,3,44.2,28.8,16.8,15.2
+IDCJAC0001,Melbourne,2016,4,12.2,25,14.7,10.3
+IDCJAC0001,Melbourne,2016,5,143,19.8,8.8,10
+IDCJAC0001,Melbourne,2016,6,104.7,15.3,7.8,7
+IDCJAC0001,Melbourne,2016,7,109.2,14.7,8.1,6
+IDCJAC0001,Melbourne,2016,8,87.6,17.1,11.9,5.2
+IDCJAC0001,Melbourne,2016,9,230.1,16.6,12.4,6.3
+IDCJAC0001,Melbourne,2016,10,67.5,20.4,20,7.4
+IDCJAC0001,Melbourne,2016,11,34.4,25.3,24.2,8.6
+IDCJAC0001,Melbourne,2016,12,97.8,29,23.5,12.7
+IDCJAC0001,Melbourne,2017,1,60.8,31.3,25.8,16
+IDCJAC0001,Melbourne,2017,2,37,29.3,22,14.6
+IDCJAC0001,Melbourne,2017,3,8.6,30.4,17.4,14.1
+IDCJAC0001,Melbourne,2017,4,84.8,23.5,11.9,10.9
+IDCJAC0001,Melbourne,2017,5,,19.1,9.7,7.4
+IDCJAC0001,Melbourne,2017,6,11,16.8,9.3,3
+IDCJAC0001,Melbourne,2017,7,129.2,16.3,8.4,5.8
+IDCJAC0001,Melbourne,2017,8,,15.3,10.2,5
+IDCJAC0001,Melbourne,2017,9,58.1,18.9,16.3,7.2
+IDCJAC0001,Melbourne,2017,10,26.8,24.5,20.4,7.9
+IDCJAC0001,Melbourne,2017,11,44.8,28.6,21.5,13.9
+IDCJAC0001,Melbourne,2017,12,34.2,28.7,23.8,13.1
+IDCJAC0001,Melbourne,2018,1,14.2,33,24.3,16.3
+IDCJAC0001,Melbourne,2018,2,7.2,31.9,21.9,16.4
+IDCJAC0001,Melbourne,2018,3,5.8,28.2,18.2,12.4
+IDCJAC0001,Melbourne,2018,4,26,27.4,14.2,11.9
+IDCJAC0001,Melbourne,2018,5,59,18.3,9.1,7.6
+IDCJAC0001,Melbourne,2018,6,52.8,15.7,8.4,4.4
+IDCJAC0001,Melbourne,2018,7,45.6,16.4,9,5.3
+IDCJAC0001,Melbourne,2018,8,100,16.6,11.3,5.8
